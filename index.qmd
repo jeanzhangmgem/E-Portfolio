@@ -1,6 +1,6 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Jean's E-Portfolio"
+image: images\satellite_photo.jpg
 about:
   template: trestles
   image-width: 20em
@@ -16,10 +16,10 @@ about:
       href: https://github.com/ramonmelser
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:zj0124@student.ubc.ca
 ---
 
-Hey there people,
+## About Me
 
 This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
 
